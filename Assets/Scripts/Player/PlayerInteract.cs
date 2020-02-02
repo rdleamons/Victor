@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class PlayerInteract : MonoBehaviour
 { 
     private bool vaseHit;
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Vase"))

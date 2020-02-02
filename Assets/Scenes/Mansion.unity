@@ -1827,6 +1827,18 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5365808035751461864, guid: aeeea1e9e114d3b4fa8899b88fa1f13e,
         type: 3}
+    - target: {fileID: 2153656710926623698, guid: ad2e27afd398f0f458fae57818921ba8,
+        type: 3}
+      propertyPath: fixedVase
+      value: 
+      objectReference: {fileID: 6405552777788440802, guid: 9896f44cb0ff2cf44b75f9594711416f,
+        type: 3}
+    - target: {fileID: 2153656710926623698, guid: ad2e27afd398f0f458fae57818921ba8,
+        type: 3}
+      propertyPath: brokenVase
+      value: 
+      objectReference: {fileID: 6405552777788440802, guid: 9896f44cb0ff2cf44b75f9594711416f,
+        type: 3}
     - target: {fileID: 2192307089258625800, guid: ad2e27afd398f0f458fae57818921ba8,
         type: 3}
       propertyPath: m_SortingOrder

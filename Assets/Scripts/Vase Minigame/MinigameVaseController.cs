@@ -7,6 +7,7 @@ public class MinigameVaseController : MonoBehaviour
 {
 
     [SerializeField]
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,7 +24,7 @@ public class MinigameVaseController : MonoBehaviour
     void Update()
     {
         if(Puzzle1.locked && Puzzle2.locked && Puzzle3.locked && Puzzle4.locked && Puzzle5.locked && Puzzle6.locked && Puzzle7.locked)
-        {
+        { 
             SceneManager.LoadScene("Mansion");
         }
     }
