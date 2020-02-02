@@ -1798,6 +1798,25 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 2}
   serializedVersion: 2
   m_Radius: 4
+--- !u!95 &1942571877
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942571869}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 69ff1ec084498774e9ef6c7ff66e9102, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1981535622 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8343159642886250367, guid: aeeea1e9e114d3b4fa8899b88fa1f13e,
@@ -1854,6 +1873,12 @@ PrefabInstance:
       propertyPath: m_SortingLayer
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2192307089258625800, guid: ad2e27afd398f0f458fae57818921ba8,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -4691663084010918102, guid: db977cd226a80fa4cab51a18ea117290,
+        type: 3}
     - target: {fileID: 2192307089258625801, guid: ad2e27afd398f0f458fae57818921ba8,
         type: 3}
       propertyPath: m_LocalPosition.x

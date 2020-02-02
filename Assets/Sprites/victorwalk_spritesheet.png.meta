@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 148128ff2d4658b4395cb48e164c8e27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5435513553927610988
+    second: victorwalk_spritesheet_0
+  - first:
+      213: 7743189898774378435
+    second: victorwalk_spritesheet_1
+  - first:
+      213: -8964464144028660876
+    second: victorwalk_spritesheet_2
+  - first:
+      213: -742069370793801860
+    second: victorwalk_spritesheet_3
+  - first:
+      213: 6590373820412749729
+    second: victorwalk_spritesheet_4
+  - first:
+      213: 7538627704127528044
+    second: victorwalk_spritesheet_5
+  - first:
+      213: -292185762239288392
+    second: victorwalk_spritesheet_6
+  - first:
+      213: -2515850166298937330
+    second: victorwalk_spritesheet_7
+  - first:
+      213: 3333735243331554697
+    second: victorwalk_spritesheet_8
+  - first:
+      213: 3078701547818549334
+    second: victorwalk_spritesheet_9
+  - first:
+      213: -7687568175887560375
+    second: victorwalk_spritesheet_10
+  - first:
+      213: -4357116689022405271
+    second: victorwalk_spritesheet_11
+  - first:
+      213: 8886302027134271774
+    second: victorwalk_spritesheet_12
+  - first:
+      213: 1711370033311525139
+    second: victorwalk_spritesheet_13
+  - first:
+      213: 2315815864927940374
+    second: victorwalk_spritesheet_14
+  - first:
+      213: 5253957835653875089
+    second: victorwalk_spritesheet_15
+  - first:
+      213: 6318965668812075951
+    second: victorwalk_spritesheet_16
+  - first:
+      213: 7637073825749373407
+    second: victorwalk_spritesheet_17
+  - first:
+      213: 5823996283965717273
+    second: victorwalk_spritesheet_18
+  - first:
+      213: -6095153202694537366
+    second: victorwalk_spritesheet_19
+  - first:
+      213: 2314614149427782486
+    second: victorwalk_spritesheet_20
+  - first:
+      213: 3576320677304373964
+    second: victorwalk_spritesheet_21
+  - first:
+      213: 7509708118200830377
+    second: victorwalk_spritesheet_22
+  - first:
+      213: 1896068883861696243
+    second: victorwalk_spritesheet_23
+  - first:
+      213: 3084471392707662096
+    second: victorwalk_spritesheet_24
+  - first:
+      213: 1349501023334306501
+    second: victorwalk_spritesheet_25
+  - first:
+      213: 8909695215363059395
+    second: victorwalk_spritesheet_26
+  - first:
+      213: -7594703790573744476
+    second: victorwalk_spritesheet_27
+  - first:
+      213: 3289777145016362087
+    second: victorwalk_spritesheet_28
+  - first:
+      213: 7172709119298196791
+    second: victorwalk_spritesheet_29
+  - first:
+      213: -7926067621716539616
+    second: victorwalk_spritesheet_30
+  - first:
+      213: 8309762307235338197
+    second: victorwalk_spritesheet_31
+  - first:
+      213: -2646486729676299923
+    second: victorwalk_spritesheet_32
+  - first:
+      213: -2809317218929284901
+    second: victorwalk_spritesheet_33
+  - first:
+      213: -7161868306474829611
+    second: victorwalk_spritesheet_34
+  - first:
+      213: 4947362233642927852
+    second: victorwalk_spritesheet_35
+  - first:
+      213: -4784268713710809428
+    second: victorwalk_spritesheet_36
+  - first:
+      213: 2910662080656373090
+    second: victorwalk_spritesheet_37
+  - first:
+      213: -7895519639169016191
+    second: victorwalk_spritesheet_38
+  - first:
+      213: 4573101022354334714
+    second: victorwalk_spritesheet_39
+  - first:
+      213: 7054039005878120416
+    second: victorwalk_spritesheet_40
+  - first:
+      213: 1903107449740319701
+    second: victorwalk_spritesheet_41
+  - first:
+      213: 9102217862643049597
+    second: victorwalk_spritesheet_42
+  - first:
+      213: 4533714628422916424
+    second: victorwalk_spritesheet_43
+  - first:
+      213: -5566296381153848332
+    second: victorwalk_spritesheet_44
+  - first:
+      213: -6789547998916750861
+    second: victorwalk_spritesheet_45
+  - first:
+      213: 8968685780683474990
+    second: victorwalk_spritesheet_46
+  - first:
+      213: 6745767505394696677
+    second: victorwalk_spritesheet_47
+  - first:
+      213: -6253230091019062356
+    second: victorwalk_spritesheet_48
+  - first:
+      213: 6925519324590749766
+    second: victorwalk_spritesheet_49
+  - first:
+      213: 5336186777729224939
+    second: victorwalk_spritesheet_50
+  - first:
+      213: 8519024779051007615
+    second: victorwalk_spritesheet_51
+  - first:
+      213: 8380582066889629767
+    second: victorwalk_spritesheet_52
+  - first:
+      213: -7684684363718897775
+    second: victorwalk_spritesheet_53
+  - first:
+      213: 1359215882157886544
+    second: victorwalk_spritesheet_54
+  - first:
+      213: -466948160859508685
+    second: victorwalk_spritesheet_55
+  - first:
+      213: 4790405350325945116
+    second: victorwalk_spritesheet_56
+  - first:
+      213: -8655125821396870795
+    second: victorwalk_spritesheet_57
+  - first:
+      213: 5700012868962698834
+    second: victorwalk_spritesheet_58
+  - first:
+      213: 7686692910093815136
+    second: victorwalk_spritesheet_59
+  - first:
+      213: 8582751729016400185
+    second: victorwalk_spritesheet_60
+  - first:
+      213: -346686848003111937
+    second: victorwalk_spritesheet_61
+  - first:
+      213: 1034475858723762983
+    second: victorwalk_spritesheet_62
+  - first:
+      213: 4921084490224230673
+    second: victorwalk_spritesheet_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: victorwalk_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 361
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c622da957c2de6b40800000000000000
+      internalID: 5435513553927610988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorwalk_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 33
+        width: 335
+        height: 817
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f6d01036557b60800000000000000
+      internalID: 7743189898774378435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorwalk_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 32
+        width: 203
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b02755b53d79380800000000000000
+      internalID: -8964464144028660876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorwalk_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 33
+        width: 326
+        height: 804
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774323c6d3a3b5f0800000000000000
+      internalID: -742069370793801860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorwalk_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 35
+        width: 397
+        height: 806
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a76cb68216b57b50800000000000000
+      internalID: 6590373820412749729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorwalk_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 28
+        width: 334
+        height: 822
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c907e94f59e9860800000000000000
+      internalID: 7538627704127528044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorwalk_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 26
+        width: 258
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbec49e892f1fbf0800000000000000
+      internalID: -292185762239288392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorwalk_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 26
+        width: 228
+        height: 815
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08f4a17a97e51dd0800000000000000
+      internalID: -2515850166298937330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
