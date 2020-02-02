@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -43,10 +44,9 @@ public class PlayerController : MonoBehaviour
     //Check if Grounded
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Floor") || other.gameObject.CompareTag("Platform"))
+        if (other.gameObject.CompareTag("Floor"))
         {
             isGrounded = true;
-        }
-            
+        }   
     }
 }

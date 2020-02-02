@@ -6,8 +6,7 @@ TagManager:
   tags:
   - Interactables
   - Floor
-  - Platform
-  - Feet
+  - Vase
   layers:
   - Default
   - TransparentFX

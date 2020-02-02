@@ -10,7 +10,13 @@ public class MinigameVaseController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Puzzle1.locked = false;
+        Puzzle2.locked = false;
+        Puzzle3.locked = false;
+        Puzzle4.locked = false;
+        Puzzle5.locked = false;
+        Puzzle6.locked = false;
+        Puzzle7.locked = false;
     }
 
     // Update is called once per frame
