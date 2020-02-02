@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Fix Vase.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MiniGame - Vase.unity
+    guid: 7a19026e1ca0cb84d9047cff99271f06
+  - enabled: 1
+    path: Assets/Scenes/Mansion.unity
+    guid: 5a78bd85e198ccf4eaa402c58764efc3
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 304df250290f5874c94d2c6e7a5356c8
   m_configObjects: {}

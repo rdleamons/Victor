@@ -43,7 +43,7 @@ public class PlayerController : MonoBehaviour
     //Check if Grounded
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Floor"))
+        if (other.gameObject.CompareTag("Floor") || other.gameObject.CompareTag("Platform"))
         {
             isGrounded = true;
         }
