@@ -6,7 +6,15 @@ using UnityEngine.SceneManagement;
 public class PlayerInteract : MonoBehaviour
 { 
     private bool vaseHit;
-    public int vaseCount = 0;
+    private bool webHit;
+    public int vaseCount;
+    public int webCount;
+
+    private void Start()
+    {
+        vaseCount = 0;
+        webCount = 0;
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -14,21 +22,27 @@ public class PlayerInteract : MonoBehaviour
         {
             vaseHit = true;
         }
+        else if(collision.CompareTag("Web"))
+        {
+            vaseHit = false;
+            webHit = true;
+        }
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(vaseHit && Input.GetKeyDown(KeyCode.E))
+        if(vaseHit == true && Input.GetKeyDown(KeyCode.E))
         {
             vaseCount++;
             SceneManager.LoadScene("FixVase");
             vaseHit = false;
-        }
-        
-        if(vaseCount == 3)
+        }else if(webHit == true && Input.GetKeyDown(KeyCode.E))
         {
-            SceneManager.LoadScene("Letter");
+            webCount++;
+            SceneManager.LoadScene("CleanCobwebs");
+            webHit = false;
         }
 
     }

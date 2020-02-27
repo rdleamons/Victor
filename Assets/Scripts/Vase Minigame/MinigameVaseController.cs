@@ -7,6 +7,7 @@ public class MinigameVaseController : MonoBehaviour
 {
 
     [SerializeField]
+    PlayerInteract testCount;
 
     // Start is called before the first frame update
     void Start()
