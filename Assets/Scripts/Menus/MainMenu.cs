@@ -20,6 +20,11 @@ public class MainMenu : MonoBehaviour
 
     public int evidenceCount = 0;
 
+    private void Start()
+    {
+        PlayerPrefs.SetInt("evidenceCount", 0);
+    }
+
     public void NewGame()
     {
         Debug.Log("Start Game");

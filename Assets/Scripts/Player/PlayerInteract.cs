@@ -10,23 +10,21 @@ public class PlayerInteract : MonoBehaviour
     public int vaseCount;
     public int webCount;
 
-    private void Start()
-    {
-        vaseCount = 0;
-        //webCount = 0;
-    }
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Vase"))
         {
+            vaseCount++;
             vaseHit = true;
             webHit = false;
+            
         }
         else if(collision.gameObject.CompareTag("Web"))
         {
+            webCount++;
             webHit = true;
             vaseHit = false;
+            
         }
 
     }
@@ -36,20 +34,22 @@ public class PlayerInteract : MonoBehaviour
     {
         if(vaseHit == true && Input.GetKeyDown(KeyCode.E))
         {
-            vaseCount++;
             SceneManager.LoadScene("FixVase");
             vaseHit = false;
         }else if(webHit == true && Input.GetKeyDown(KeyCode.E))
-        {
-            webCount++;
+        {   
             SceneManager.LoadScene("CleanCobwebs");
             webHit = false;
         }
 
-        if(vaseCount == 3)
+        /*
+        if(vaseCount >= 3 && webCount >= 3)
         {
             SceneManager.LoadScene("Letter");
+            vaseCount = 0;
+            webCount = 0;
         }
+        */
 
     }
 }
